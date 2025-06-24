@@ -92,6 +92,6 @@ The A2C agent successfully replicates and in some cases improves upon Merton’s
 
 ---
 
-> 💡 **"In modern finance, optimization isn’t just about solving equations — it’s about empowering intelligent agents to make decisions that adapt, learn, and evolve with the market."**
+> 💡 *"In modern finance, optimization isn’t just about solving equations — it’s about empowering intelligent agents to make decisions that adapt, learn, and evolve with the market."*
 
 ---
